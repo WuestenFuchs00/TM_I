@@ -1,7 +1,7 @@
 /**
  * Technische Mechanik I (MW SoSe 2018)
  *
- * Testat 1
+ * Testat 2
  *
  * Compile:  gcc -Wall -std=gnu99 -pedantic <datei.c> -lm -o <datei>
  *
