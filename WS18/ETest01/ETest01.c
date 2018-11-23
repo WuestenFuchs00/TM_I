@@ -1,11 +1,11 @@
 /**
  * Technische Mechanik TM1 (WS2018)
- * Uebungsblatt 1 - E-Test 1
+ * E-Test 1
  *
  * Compile:
- *	gcc -Wall -std=gnu99 -pedantic <File.c> -o <File> -lm
+ *		gcc -Wall -std=gnu99 -pedantic <File.c> -o <File> -lm
  *
- * Option -lm is needed to link the math functions from <mth.h>.
+ * Option -lm is needed to link the math functions from <math.h>.
  */
 #include <stdio.h>
 #include <math.h>
